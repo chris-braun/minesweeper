@@ -2,11 +2,11 @@
 
 I wrote this to learn Odin + raylib. I know it's not as cool as snake, but I thought it might be a good example anyway.
 
-![alt text](docs/menu.png "Menu")
+![menu](docs/menu.png "Menu")
 
-![alt text](docs/easy.png "Easy Level")
+![easy level](docs/easy.png "Easy Level")
 
-![alt text](docs/easy-game-over.png "Easy Level - Game Over")
+![easy level - game over](docs/easy-game-over.png "Easy Level - Game Over")
 
 Potentially interesting bits...
 * raylib graphics (of course)
